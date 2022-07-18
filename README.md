@@ -1,2 +1,2 @@
 # Sopping Cart 
-## https://darling-gumption-2ee558.netlify.app
+## https://shannu-shopping-cart-js.netlify.app
